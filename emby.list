@@ -1,7 +1,6 @@
-# 内容：HWTV
-# 数量：3条
-DOMAIN-SUFFIX,xyt.emby.ml
-DOMAIN-SUFFIX,4837.misakaf.org
-DOMAIN-SUFFIX,cf.misakaf.org
-DOMAIN-KEYWORD,emby
-DOMAIN-SUFFIX,flowercloud.yt
+# 内容：视频规则
+# 数量：4条
+DOMAIN,xyt.emby.ml
+DOMAIN,4837.misakaf.org
+DOMAIN,cf.misakaf.org
+DOMAIN,flowercloud.yt
