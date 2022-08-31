@@ -1,5 +1,6 @@
 # 内容：视频规则
 # 数量：4条
+DOMAIN,emby
 DOMAIN-SUFFIX,xyt.emby.ml
 DOMAIN-SUFFIX,4837.misakaf.org
 DOMAIN-SUFFIX,cf.misakaf.org
