@@ -1,7 +1,5 @@
 # 内容：视频规则
-# 数量：4条
-DOMAIN,xyt.emby.ml
-DOMAIN,4837.misakaf.org
-DOMAIN,cf.misakaf.org
-DOMAIN,flowercloud.yt
-
+# 数量：3条
+DOMAIN-SUFFIX,emby.ml
+DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,flowercloud.yt
