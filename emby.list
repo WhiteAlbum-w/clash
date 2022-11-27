@@ -1,5 +1,4 @@
 # 内容：视频规则
-# 数量：4条
 DOMAIN-SUFFIX,emby.ml
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-KEYWORD,misakaf
@@ -8,3 +7,4 @@ DOMAIN-SUFFIX,nakonako.net
 #DOMAIN-SUFFIX,nakoemby.com
 DOMAIN-SUFFIX,py.embyplus
 DOMAIN-SUFFIX,py2.embyplus
+DOMAIN-SUFFIX,loseremby.org
